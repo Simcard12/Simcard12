@@ -1,6 +1,6 @@
-# 🛫 Hey, I'm Simarpreet Singh
+# Hey, I'm Simarpreet Singh
 
-Welcome aboard! I'm an aviation enthusiast and COE student who loves mixing cockpit dreams with clean code. Whether it's building smart systems or experimenting with flight-inspired tech, I'm all about turning high-flying ideas into reality. 🚀
+Welcome aboard! I'm an aviation enthusiast and COE student who loves mixing cockpit dreams with clean code. Whether it's building smart systems or experimenting with flight-inspired tech. 🚀
 
 ---
 
