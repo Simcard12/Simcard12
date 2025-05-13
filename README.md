@@ -11,7 +11,7 @@ Welcome aboard! I'm an aviation enthusiast and COE student who loves mixing cock
 ---
 
 ## 🔗 Let's Connect
-- [https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/simarpreet-singh-35756a259/)
+- [https://www.linkedin.com/in/your-linkedin][(https://www.linkedin.com/in/simarpreet-singh-35756a259/)](https://in.linkedin.com/in/simarpreet-singh-35756a259)
 - ✉️ ssingh15_be22@thapar.edu
 
 ---
